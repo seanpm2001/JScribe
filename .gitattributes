@@ -43,7 +43,7 @@
 # Inform 7 source file
 *.i7x linguist-detectable=true
 *.i7x linguist-documentation=false
-*.i7x linguist-language=Inform 7
+*.i7x linguist-language=Inform-7
 # JSON (JavaScript Object Notation) source file
 *.json linguist-detectable=true
 *.json linguist-documentation=false
@@ -120,6 +120,6 @@
 # End of linguist script
 # File info
 # File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Monday, May 9th at 3:47 pm PST)
+# File version: 5 (2022, Monday, May 9th at 4:30 pm PST)
 # Line count (including blank lines and compiler line): 126
 # End of script
